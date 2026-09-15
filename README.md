@@ -14,11 +14,12 @@
 
 ### 👨‍💻 Về mình
 
-- 🔭 Mình đang xây dựng các sản phẩm **AI SaaS** ứng dụng cho thị trường Việt Nam: từ tự động hoá video ngắn, camera giám sát bán lẻ thông minh, đến công cụ E-learning bằng AI.
+- 🎓 Sinh viên ngành **Công nghệ thông tin**, trường **Đại học Vinh**.
+- 🔭 Đang xây dựng các sản phẩm **AI SaaS** ứng dụng cho thị trường Việt Nam: từ tự động hoá video ngắn, camera giám sát bán lẻ thông minh, đến công cụ E-learning bằng AI.
 - 🌱 Đang tìm hiểu sâu hơn về **NVIDIA DeepStream**, **FastAPI** và triển khai mô hình AI trên thiết bị edge (Jetson Orin Nano).
 - 🎯 Mục tiêu: đưa các sản phẩm AI thực tế tới các doanh nghiệp vừa và nhỏ (SME) tại Việt Nam.
 - 💬 Có thể trao đổi với mình về: Computer Vision, AI video generation, kiến trúc SaaS, hoặc phát triển sản phẩm cho thị trường Việt Nam.
-- ⚡ Vui tính: mình thích biến ý tưởng thành sản phẩm chạy được, dù phải bắt đầu từ những dòng code đầu tiên.
+- ⚡ Mình thích biến ý tưởng thành sản phẩm chạy được, dù phải bắt đầu từ những dòng code đầu tiên.
 
 ---
 
