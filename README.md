@@ -28,15 +28,15 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🎬 <a href="LINK_AI_VIDEO_O_DAY">AI_VIDEO</a></h4>
+      <h4>🎬 AI_VIDEO</h4>
       <p>SaaS tự động tạo video ngắn (TikTok/Reels) bằng AI — kiến trúc module hoá với Gemini &amp; Veo, xây trên nền FastAPI + Next.js.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🏪 <a href="LINK_RETAIL_CAMERA_O_DAY">Retail Camera SaaS</a></h4>
+      <h4>🏪 Retail Camera SaaS</h4>
       <p>Hệ thống camera giám sát AI cho mini mart Việt Nam, chạy trên Jetson Orin Nano với NVIDIA DeepStream, tích hợp POS (KiotViet, Sapo, iPos).</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📚 <a href="https://slidepro.naneuron.com">SlidePro</a></h4>
+      <h4>📚 SlidePro</h4>
       <p>Công cụ AI chuyển slide thuyết trình thành nội dung E-learning (SCORM/H5P/video) — mình phụ trách video quảng bá sản phẩm.</p>
     </td>
   </tr>
@@ -62,12 +62,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Idolcute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idolcute&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Idolcute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Idolcute&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idolcute&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Idolcute&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
