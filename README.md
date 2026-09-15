@@ -28,15 +28,15 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🎬 AI_VIDEO</h4>
+      <h4>🎬 <a href="LINK_AI_VIDEO_O_DAY">AI_VIDEO</a></h4>
       <p>SaaS tự động tạo video ngắn (TikTok/Reels) bằng AI — kiến trúc module hoá với Gemini &amp; Veo, xây trên nền FastAPI + Next.js.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🏪 Retail Camera SaaS</h4>
+      <h4>🏪 <a href="LINK_RETAIL_CAMERA_O_DAY">Retail Camera SaaS</a></h4>
       <p>Hệ thống camera giám sát AI cho mini mart Việt Nam, chạy trên Jetson Orin Nano với NVIDIA DeepStream, tích hợp POS (KiotViet, Sapo, iPos).</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📚 SlidePro</h4>
+      <h4>📚 <a href="https://slidepro.naneuron.com">SlidePro</a></h4>
       <p>Công cụ AI chuyển slide thuyết trình thành nội dung E-learning (SCORM/H5P/video) — mình phụ trách video quảng bá sản phẩm.</p>
     </td>
   </tr>
