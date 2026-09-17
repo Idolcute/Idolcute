@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Idolcute+%F0%9F%91%8B;AI+%2F+Computer+Vision+Developer;Building+SaaS+products+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:DA291C&height=200&section=header&text=Idolcute&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=55&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Idolcute+%F0%9F%91%8B;AI+%2F+Computer+Vision+Developer;Building+SaaS+products+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 
 </div>
 
@@ -44,6 +46,23 @@
 
 ---
 
+### 📌 Repository nổi bật
+
+<div align="center">
+
+<a href="https://github.com/Idolcute/camera-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=camera-ai&theme=tokyonight" />
+</a>
+<a href="https://github.com/Idolcute/QuanLyQuanCafe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=QuanLyQuanCafe&theme=tokyonight" />
+</a>
+
+</div>
+
+> ✏️ *Đổi `repo=camera-ai` và `repo=QuanLyQuanCafe` (cả trong `href` lẫn trong `repo=`) thành đúng tên repo thật đang public trên tài khoản của bạn — sai tên sẽ hiện lỗi "Repository Not Found".*
+
+---
+
 ### 🛠️ Công nghệ sử dụng
 
 <p align="center">
@@ -66,7 +85,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Idolcute&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Idolcute&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idolcute&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Idolcute&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -87,4 +115,10 @@
   <a href="https://facebook.com/your-profile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Idolcute&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
 <p align="center"><i>Cảm ơn bạn đã ghé thăm profile của mình! ⭐</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA291C,100:6C63FF&height=120&section=footer"/>
