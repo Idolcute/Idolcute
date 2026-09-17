@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:DA291C&height=200&section=header&text=Idolcute&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=Idolcute&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20Computer%20Vision%20Developer&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Idolcute+%F0%9F%91%8B;AI+%2F+Computer+Vision+Developer;Building+SaaS+products+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Idolcute+%F0%9F%91%8B;AI+%2F+Computer+Vision+Developer;Building+SaaS+products+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <a href="#-về-mình"><img src="https://img.shields.io/badge/Về%20mình-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
-  <a href="#-học-vấn"><img src="https://img.shields.io/badge/Học%20vấn-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
-  <a href="#-dự-án-đang-phát-triển"><img src="https://img.shields.io/badge/Dự%20án-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
-  <a href="#-repository-nổi-bật"><img src="https://img.shields.io/badge/Repository-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
-  <a href="#️-công-nghệ-sử-dụng"><img src="https://img.shields.io/badge/Kỹ%20năng-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
-  <a href="#-kết-nối-với-mình"><img src="https://img.shields.io/badge/Liên%20hệ-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
+  <a href="#-về-mình"><img src="https://img.shields.io/badge/Về%20mình-1a1b27?style=flat-square&labelColor=7aa2f7" /></a>
+  <a href="#-học-vấn"><img src="https://img.shields.io/badge/Học%20vấn-1a1b27?style=flat-square&labelColor=7aa2f7" /></a>
+  <a href="#-dự-án-đang-phát-triển"><img src="https://img.shields.io/badge/Dự%20án-1a1b27?style=flat-square&labelColor=7aa2f7" /></a>
+  <a href="#-repository-nổi-bật"><img src="https://img.shields.io/badge/Repository-1a1b27?style=flat-square&labelColor=7aa2f7" /></a>
+  <a href="#️-công-nghệ-sử-dụng"><img src="https://img.shields.io/badge/Kỹ%20năng-1a1b27?style=flat-square&labelColor=7aa2f7" /></a>
+  <a href="#-kết-nối-với-mình"><img src="https://img.shields.io/badge/Liên%20hệ-1a1b27?style=flat-square&labelColor=7aa2f7" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-6C63FF?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Based%20in-Vietnam-DA291C?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-7aa2f7?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Based%20in-Vietnam-bb9af7?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge" /></a>
 </p>
 
@@ -68,7 +68,7 @@
 
 | Repo | Mô tả | Ngôn ngữ | Sao |
 |---|---|---|---|
-| [**TranHau**](https://github.com/Idolcute/TranHau) | Dự án cá nhân | ![lang](https://img.shields.io/github/languages/top/Idolcute/TranHau?style=flat-square&color=6C63FF) | ![stars](https://img.shields.io/github/stars/Idolcute/TranHau?style=flat-square&color=6C63FF) |
+| [**TranHau**](https://github.com/Idolcute/TranHau) | Dự án cá nhân | ![lang](https://img.shields.io/github/languages/top/Idolcute/TranHau?style=flat-square&color=7aa2f7) | ![stars](https://img.shields.io/github/stars/Idolcute/TranHau?style=flat-square&color=7aa2f7) |
 
 </div>
 
@@ -79,7 +79,7 @@
 ### 🛠️ Công nghệ sử dụng
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,c,cpp,sqlserver,fastapi,nextjs,opencv,git,linux" />
+  <img src="https://raw.githubusercontent.com/Idolcute/Idolcute/main/tech-stack-marquee.svg" />
 </p>
 
 <p align="center">
@@ -120,9 +120,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Idolcute&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Idolcute&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center"><i>Cảm ơn bạn đã ghé thăm profile của mình! ⭐</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA291C,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer"/>
