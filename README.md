@@ -50,16 +50,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Idolcute/camera-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=camera-ai&theme=tokyonight" />
+<a href="https://github.com/Idolcute/TranHau">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=TranHau&theme=tokyonight" />
 </a>
-<a href="https://github.com/Idolcute/QuanLyQuanCafe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=QuanLyQuanCafe&theme=tokyonight" />
+<a href="https://github.com/Idolcute/doancongnghenet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=doancongnghenet&theme=tokyonight" />
 </a>
 
 </div>
-
-> ✏️ *Đổi `repo=camera-ai` và `repo=QuanLyQuanCafe` (cả trong `href` lẫn trong `repo=`) thành đúng tên repo thật đang public trên tài khoản của bạn — sai tên sẽ hiện lỗi "Repository Not Found".*
 
 ---
 
