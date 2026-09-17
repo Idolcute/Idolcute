@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
-  <a href="#-về-mình">Về mình</a> •
-  <a href="#-học-vấn">Học vấn</a> •
-  <a href="#-dự-án-đang-phát-triển">Dự án</a> •
-  <a href="#-repository-nổi-bật">Repository</a> •
-  <a href="#️-công-nghệ-sử-dụng">Kỹ năng</a> •
-  <a href="#-kết-nối-với-mình">Liên hệ</a>
+  <a href="#-về-mình"><img src="https://img.shields.io/badge/Về%20mình-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
+  <a href="#-học-vấn"><img src="https://img.shields.io/badge/Học%20vấn-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
+  <a href="#-dự-án-đang-phát-triển"><img src="https://img.shields.io/badge/Dự%20án-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
+  <a href="#-repository-nổi-bật"><img src="https://img.shields.io/badge/Repository-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
+  <a href="#️-công-nghệ-sử-dụng"><img src="https://img.shields.io/badge/Kỹ%20năng-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
+  <a href="#-kết-nối-với-mình"><img src="https://img.shields.io/badge/Liên%20hệ-1a1a2e?style=flat-square&labelColor=6C63FF" /></a>
 </p>
 
 <p align="center">
