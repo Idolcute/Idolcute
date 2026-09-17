@@ -53,7 +53,6 @@
 | Repo | Mô tả | Ngôn ngữ | Sao |
 |---|---|---|---|
 | [**TranHau**](https://github.com/Idolcute/TranHau) | Dự án cá nhân | ![lang](https://img.shields.io/github/languages/top/Idolcute/TranHau?style=flat-square&color=6C63FF) | ![stars](https://img.shields.io/github/stars/Idolcute/TranHau?style=flat-square&color=6C63FF) |
-| [**doancongnghenet**](https://github.com/Idolcute/doancongnghenet) | Đồ án công nghệ .NET | ![lang](https://img.shields.io/github/languages/top/Idolcute/doancongnghenet?style=flat-square&color=6C63FF) | ![stars](https://img.shields.io/github/stars/Idolcute/doancongnghenet?style=flat-square&color=6C63FF) |
 
 </div>
 
