@@ -50,14 +50,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Idolcute/TranHau">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=TranHau&theme=tokyonight" />
-</a>
-<a href="https://github.com/Idolcute/doancongnghenet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Idolcute&repo=doancongnghenet&theme=tokyonight" />
-</a>
+| Repo | Mô tả | Ngôn ngữ | Sao |
+|---|---|---|---|
+| [**TranHau**](https://github.com/Idolcute/TranHau) | Dự án cá nhân | ![lang](https://img.shields.io/github/languages/top/Idolcute/TranHau?style=flat-square&color=6C63FF) | ![stars](https://img.shields.io/github/stars/Idolcute/TranHau?style=flat-square&color=6C63FF) |
+| [**doancongnghenet**](https://github.com/Idolcute/doancongnghenet) | Đồ án công nghệ .NET | ![lang](https://img.shields.io/github/languages/top/Idolcute/doancongnghenet?style=flat-square&color=6C63FF) | ![stars](https://img.shields.io/github/stars/Idolcute/doancongnghenet?style=flat-square&color=6C63FF) |
 
 </div>
+
+> ✏️ *Sửa cột "Mô tả" thành 1 câu ngắn nói về mỗi dự án làm gì.*
 
 ---
 
@@ -83,16 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Idolcute&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idolcute&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Idolcute&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=Idolcute&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
