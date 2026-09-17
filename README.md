@@ -79,7 +79,7 @@
 ### 🛠️ Công nghệ sử dụng
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Idolcute/Idolcute/main/tech-stack-marquee.svg" />
+  <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,mssql,fastapi,nextjs,opencv,git,linux&perline=10" />
 </p>
 
 <p align="center">
@@ -88,8 +88,6 @@
   <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
-
----
 
 ### 📊 GitHub Stats
 
