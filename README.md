@@ -7,21 +7,37 @@
 </div>
 
 <p align="center">
+  <a href="#-về-mình">Về mình</a> •
+  <a href="#-học-vấn">Học vấn</a> •
+  <a href="#-dự-án-đang-phát-triển">Dự án</a> •
+  <a href="#-repository-nổi-bật">Repository</a> •
+  <a href="#️-công-nghệ-sử-dụng">Kỹ năng</a> •
+  <a href="#-kết-nối-với-mình">Liên hệ</a>
+</p>
+
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-6C63FF?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Based%20in-Vietnam-DA291C?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Building%20SaaS-2ea043?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea043?style=for-the-badge" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 Về mình
 
-- 🎓 Sinh viên ngành **Công nghệ thông tin**, trường **Đại học Vinh**.
 - 🔭 Đang xây dựng các sản phẩm **AI SaaS** ứng dụng cho thị trường Việt Nam: từ tự động hoá video ngắn, camera giám sát bán lẻ thông minh, đến công cụ E-learning bằng AI.
 - 🌱 Đang tìm hiểu sâu hơn về **NVIDIA DeepStream**, **FastAPI** và triển khai mô hình AI trên thiết bị edge (Jetson Orin Nano).
 - 🎯 Mục tiêu: đưa các sản phẩm AI thực tế tới các doanh nghiệp vừa và nhỏ (SME) tại Việt Nam.
 - 💬 Có thể trao đổi với mình về: Computer Vision, AI video generation, kiến trúc SaaS, hoặc phát triển sản phẩm cho thị trường Việt Nam.
 - ⚡ Mình thích biến ý tưởng thành sản phẩm chạy được, dù phải bắt đầu từ những dòng code đầu tiên.
+
+---
+
+### 🎓 Học vấn
+
+| Trường | Chuyên ngành | Dự kiến tốt nghiệp |
+|---|---|---|
+| **Đại học Vinh** | Công nghệ thông tin | 2028 |
 
 ---
 
