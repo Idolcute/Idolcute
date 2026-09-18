@@ -1,33 +1,33 @@
-<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+<svg width="917" height="40" viewBox="0 0 917 40" xmlns="http://www.w3.org/2000/svg">
   <style>
     .track {
-      animation: scroll 18s linear infinite;
+      animation: scroll 16s linear infinite;
     }
     @keyframes scroll {
       from { transform: translateX(0); }
-      to { transform: translateX(-900px); }
+      to { transform: translateX(-917px); }
     }
   </style>
   <g class="track">
-    <image href="https://skillicons.dev/icons?i=python" x="0" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=csharp" x="90" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=c" x="180" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=cpp" x="270" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=sqlserver" x="360" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=fastapi" x="450" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=nextjs" x="540" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=opencv" x="630" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=git" x="720" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=linux" x="810" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=python" x="900" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=csharp" x="990" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=c" x="1080" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=cpp" x="1170" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=sqlserver" x="1260" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=fastapi" x="1350" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=nextjs" x="1440" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=opencv" x="1530" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=git" x="1620" y="6" width="48" height="48"/>
-    <image href="https://skillicons.dev/icons?i=linux" x="1710" y="6" width="48" height="48"/>
+    <g><rect x="0" y="0" width="87" height="40" rx="20" fill="#3776AB"/><text x="43.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Python</text></g>
+    <g><rect x="101" y="0" width="50" height="40" rx="20" fill="#68217A"/><text x="126.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">C#</text></g>
+    <g><rect x="165" y="0" width="41" height="40" rx="20" fill="#00599C"/><text x="185.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">C</text></g>
+    <g><rect x="220" y="0" width="59" height="40" rx="20" fill="#00599C"/><text x="249.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">C++</text></g>
+    <g><rect x="293" y="0" width="124" height="40" rx="20" fill="#CC2927"/><text x="355.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">SQL Server</text></g>
+    <g><rect x="431" y="0" width="96" height="40" rx="20" fill="#009688"/><text x="479.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">FastAPI</text></g>
+    <g><rect x="541" y="0" width="96" height="40" rx="20" fill="#000000"/><text x="589.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Next.js</text></g>
+    <g><rect x="651" y="0" width="87" height="40" rx="20" fill="#5C3EE8"/><text x="694.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">OpenCV</text></g>
+    <g><rect x="752" y="0" width="59" height="40" rx="20" fill="#F05032"/><text x="781.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Git</text></g>
+    <g><rect x="825" y="0" width="78" height="40" rx="20" fill="#111111"/><text x="864.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Linux</text></g>
+    <g><rect x="917" y="0" width="87" height="40" rx="20" fill="#3776AB"/><text x="960.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Python</text></g>
+    <g><rect x="1018" y="0" width="50" height="40" rx="20" fill="#68217A"/><text x="1043.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">C#</text></g>
+    <g><rect x="1082" y="0" width="41" height="40" rx="20" fill="#00599C"/><text x="1102.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">C</text></g>
+    <g><rect x="1137" y="0" width="59" height="40" rx="20" fill="#00599C"/><text x="1166.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">C++</text></g>
+    <g><rect x="1210" y="0" width="124" height="40" rx="20" fill="#CC2927"/><text x="1272.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">SQL Server</text></g>
+    <g><rect x="1348" y="0" width="96" height="40" rx="20" fill="#009688"/><text x="1396.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">FastAPI</text></g>
+    <g><rect x="1458" y="0" width="96" height="40" rx="20" fill="#000000"/><text x="1506.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Next.js</text></g>
+    <g><rect x="1568" y="0" width="87" height="40" rx="20" fill="#5C3EE8"/><text x="1611.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">OpenCV</text></g>
+    <g><rect x="1669" y="0" width="59" height="40" rx="20" fill="#F05032"/><text x="1698.5" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Git</text></g>
+    <g><rect x="1742" y="0" width="78" height="40" rx="20" fill="#111111"/><text x="1781.0" y="25.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff" text-anchor="middle">Linux</text></g>
   </g>
 </svg>
